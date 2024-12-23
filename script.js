@@ -25,3 +25,8 @@ let result = reversedSentence.join(' '); // Pay attention to the blank space in 
 
 // Display the result
 console.log('Reversed sentence: ' + result);
+
+/*
+Added challenge for Jonathin or anyone else,
+Reverse only the vowels
+*/
